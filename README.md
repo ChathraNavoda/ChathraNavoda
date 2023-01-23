@@ -1,5 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/91416868/214003950-4219e131-aa65-4e81-a111-a0f33e843b3e.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91416868/214008588-dd0daa35-cc40-496f-b01b-5ab142bf4999.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
 <h3 align="center">A passionate mobile developer from sri Lanka Institute of Information Technology (SLIIT)</h3>
