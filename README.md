@@ -78,7 +78,7 @@
 
 
 # 📊 GitHub Stats:
-![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
