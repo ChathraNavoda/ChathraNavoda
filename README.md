@@ -67,4 +67,4 @@
 
 ### OOps! Snake is eating my contributions 😼
 
-![snake gif](https://github.com/ChathraNavoda/ChathraNavoda/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/{{ChathraNavoda}}/{{ChathraNavoda}}/blob/output/github-contribution-grid-snake.svg)
