@@ -38,8 +38,7 @@
 <p align="left">
 <a href="https://medium.com/@chathranavoda/the-solid-principle-of-object-oriented-programming-441e5e294986" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*6chqoBn4KgYHHKQycdwkyw.png" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="130" width="240" /></a>
 <a href="https://medium.com/@chathranavoda/code-with-node-4d93c5246baf" target="blank"><img align="center" src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" alt="chathra navoda ranasinghe" height="130" width="240" /></a>
-<a href="https://medium.com/@chathranavoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathranavoda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chathra navoda ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chathra navoda ranasinghe" height="30" width="40" /></a>
+<a href="https://medium.com/@chathranavoda/rest-api-4f7e1850afca" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*9xsOnmz5hC4IVOLixlvMLg.png" alt="@chathranavoda" height="130" width="240" /></a>
 </p>
 
 
@@ -49,7 +48,11 @@
 
 
 <br/>
-# 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
+![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
@@ -58,25 +61,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😆 Random Dev Meme
 
+<img align="center" src="https://www.meme-arsenal.com/memes/0fc5499f9d62f5759a639021c3df3152.jpg" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="470" width="340" />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathranavoda&show_icons=true&locale=en&layout=compact" alt="chathranavoda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathranavoda&show_icons=true&locale=en" alt="chathranavoda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathranavoda&" alt="chathranavoda" /></p>
-
-
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-# 📊 GitHub Stats:
-![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
