@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathranavoda" alt="chathranavoda" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chathranavoda-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on [Workout_Planner](https://github.com/ChathraNavoda/Workout_Planner)
