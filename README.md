@@ -1,4 +1,4 @@
-![theme](https://user-images.githubusercontent.com/91416868/213987041-25332cb6-be62-49c8-beab-a8b85a30dee0.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
