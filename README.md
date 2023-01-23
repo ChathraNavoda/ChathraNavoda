@@ -36,8 +36,8 @@
 
 ### Blogs posts
 <p align="left">
-<a href="https://medium.com/@chathranavoda/the-solid-principle-of-object-oriented-programming-441e5e294986" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*6chqoBn4KgYHHKQycdwkyw.png" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="130" width="240" /></a><br>
-<a href="https://medium.com/@chathranavoda/code-with-node-4d93c5246baf" target="blank"><img align="center" src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" alt="chathra navoda ranasinghe" height="130" width="240" /></a><br>
+<a href="https://medium.com/@chathranavoda/the-solid-principle-of-object-oriented-programming-441e5e294986" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*6chqoBn4KgYHHKQycdwkyw.png" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="130" width="240" /></a>
+<a href="https://medium.com/@chathranavoda/code-with-node-4d93c5246baf" target="blank"><img align="center" src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" alt="chathra navoda ranasinghe" height="130" width="240" /></a>
 <a href="https://medium.com/@chathranavoda/rest-api-4f7e1850afca" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*9xsOnmz5hC4IVOLixlvMLg.png" alt="@chathranavoda" height="130" width="240" /></a>
 </p>
 
