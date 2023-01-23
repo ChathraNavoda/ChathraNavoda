@@ -1,4 +1,6 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fminimal-programmer&psig=AOvVaw1Wl-xt__5oRDXgjIenzimo&ust=1674545410747000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjOn_WV3fwCFQAAAAAdAAAAABAR" width="100%"><br>
+![theme](https://user-images.githubusercontent.com/91416868/213987041-25332cb6-be62-49c8-beab-a8b85a30dee0.png)
+
+<br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
 <h3 align="center">A passionate mobile developer from sri Lanka Institute of Information Technology (SLIIT)</h3>
 
