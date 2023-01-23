@@ -75,3 +75,10 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+
+# 📊 GitHub Stats:
+![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
