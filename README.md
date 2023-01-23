@@ -1,4 +1,4 @@
-![night-tutorials-indo-hanging-light](https://user-images.githubusercontent.com/91416868/213996314-7283c63d-db13-4422-b53e-bc73e30ccaa6.gif)
+(img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/116207...")
 
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
