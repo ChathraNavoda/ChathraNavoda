@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png)
+![night-tutorials-indo-hanging-light](https://user-images.githubusercontent.com/91416868/213996314-7283c63d-db13-4422-b53e-bc73e30ccaa6.gif)
 
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
