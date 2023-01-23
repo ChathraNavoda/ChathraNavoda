@@ -1,4 +1,5 @@
-![github](https://user-images.githubusercontent.com/91416868/214014063-8e2bf39b-58fc-46de-8f52-460e45363140.gif)
+![w8ZJLtJbmuph](https://user-images.githubusercontent.com/91416868/214014650-59643c75-471e-4637-affe-dfb985200c92.gif)
+
 
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
