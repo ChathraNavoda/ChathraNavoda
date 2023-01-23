@@ -36,7 +36,7 @@
 
 ### Blogs posts
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/](https://medium.com/@chathranavoda/the-solid-principle-of-object-oriented-programming-441e5e294986)" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*6chqoBn4KgYHHKQycdwkyw.png" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="130" width="240" /></a>
+<a href="https://medium.com/@chathranavoda/the-solid-principle-of-object-oriented-programming-441e5e294986" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*6chqoBn4KgYHHKQycdwkyw.png" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="130" width="240" /></a>
 <a href="https://fb.com/chathra navoda ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathra navoda ranasinghe" height="30" width="40" /></a>
 <a href="https://medium.com/@chathranavoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chathranavoda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chathra navoda ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chathra navoda ranasinghe" height="30" width="40" /></a>
