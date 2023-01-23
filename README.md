@@ -1,4 +1,5 @@
-(img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/116207...")
+![8b35fef55fba1a201c9c7a11d3ec3d64](https://user-images.githubusercontent.com/91416868/214001237-d3e3708a-3dea-431e-b5af-5223769d4758.gif)
+
 
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
