@@ -4,6 +4,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Chathra Navoda</h1>
 <h3 align="center">A passionate mobile developer</h3>
+<img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/femalecodertocat.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathranavoda&label=Profile%20views&color=0e75b6&style=flat" alt="chathranavoda" /> </p>
 
@@ -54,12 +55,11 @@
 ![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=6c09b952f9e42ad9694018de2a88632c217e7f980b3b02bc&rid=giphy.gif&ct=s">
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChathraNavoda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?ChathraNavoda=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![]([https://github-profile-trophy.vercel.app/?username=ChathraNavoda&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ChathraNavoda&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
